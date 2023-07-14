@@ -45,3 +45,23 @@ body{
 .nav-cardapio .nav-link:hover{
     color: #e15f41;
 }
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+#fale-conosco button{
+    background-color: #e15f41;
+    color: #fff;
+}
+
+#fale-conosco button:hover{
+    background-color: #fff;
+    border: 1px solid #e15f41;
+    color: #e15f41;
+}
