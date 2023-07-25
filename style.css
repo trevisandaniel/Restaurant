@@ -65,3 +65,9 @@ body{
     border: 1px solid #e15f41;
     color: #e15f41;
 }
+
+@media (max-width: 767px){
+    .carrousel-item img{
+        height: 280px;
+    }
+}
